@@ -1,0 +1,12 @@
+id,product_name,department_name,price,stock_quantity 
+1,Computers,Accounting,$0.03 ,45
+2,Health,Research and Development,$8.52 ,835
+3,Shoes,Legal,$2.73 ,842
+4,Health,Engineering,$7.66 ,431
+5,Grocery,Legal,$0.96 ,733
+6,Games,Sales,$15.41 ,502
+7,Games,Training,$1.46 ,331
+8,Automotive,Product Management,$5.93 ,770
+9,Toys,Research and Development,$15.56 ,647
+10,Baby,Business Development,$3.51 ,201
+11,Electronics,Research and Development,$13.42 ,693
