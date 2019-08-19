@@ -23,3 +23,11 @@ https://github.com/KCbeck/bamazaon/blob/master/bad%20item%20number.png
 When tere is not enough in stock the following is displayed 
 
 https://github.com/KCbeck/bamazaon/blob/master/not%20enough%20in%20stock.png
+
+Assignment Parts Described: 
+
+Using Inquirer, Mysql and a few others
+we created functions for the counting, for the displaying the table in a new format.
+
+we created an equation string that displays all of the numbers with the statmeyt of (You got______) this was done by cancatinated elements in a funciton. 
+
